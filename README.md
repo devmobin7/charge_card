@@ -32,7 +32,7 @@ postgresql
 
 	cd charge_card
 
-	git clone https://github.com/usmanasif/charge_card.git
+	git clone https://github.com/devmobin7/charge_card.git
 
 	cd charge_card
 
